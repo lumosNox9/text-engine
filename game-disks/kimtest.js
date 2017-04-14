@@ -1,4 +1,4 @@
- kimtest = {
+ const kimtest = {
     		roomId: 'it',
     		inventory: [],
     		rooms: [
