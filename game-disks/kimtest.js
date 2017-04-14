@@ -54,7 +54,7 @@ const kimtest = {
       img: '',
       desc: `
         You hear someone yelling.
-      `,
-    },
-  ],
+      `
+    }
+  ]
 };
