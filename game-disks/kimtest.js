@@ -1,4 +1,4 @@
-const  kimtest = {
+const kimtest = {
 			roomId: 'it',
 			inventory: [],
 			rooms: [
@@ -8,7 +8,7 @@ const  kimtest = {
 			  	img: ' ',
 			  	desc: 'You are in IT. You see several desks and computers, a large white board wall, and a broken window. You see exits to the north, east, and west.',
 			  	items: [
-					{ name: 'white board', desc: 'The white board is covered in illegible scrawls. You can make out a few words: cloud, loop, and a lot of question marks.' },
+					{ name: 'whiteboard', desc: 'The white board is covered in illegible scrawls. You can make out a few words: cloud, loop, and a lot of question marks.' },
 					{ name: 'window', desc: 'This window is cracked from the inside, as though an angry programmer shot it.' }
 			  	],
 			  	exits: [
